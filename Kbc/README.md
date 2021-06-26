@@ -54,14 +54,6 @@
   If the user inputs "quit" (case insensitive) as input, then user returns with the amount he/she has won until now,
 	instead of the minimum amount.
  
-  ```
-  
-  
-  ### TESTING
-  * Go to questions.py and add 15 different questions to the list in JSON format.
-  * Test your code with multiple inputs to see if it works fine
-
-
   ### Pushing your code
     Once you have solved it in your local, push it to a private repo and message us that you have solved it, Also don't forget to add usernames: [“vedansh”, “prachipathrayan”] as collaborators
 
